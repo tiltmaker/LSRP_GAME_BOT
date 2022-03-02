@@ -1,0 +1,12 @@
+async-timeout==3.0.1
+asyncio==3.4.3
+attrs==21.4.0
+chardet==4.0.0
+discord==1.7.3
+discord.py==1.7.3
+et-xmlfile==1.1.0
+idna==3.3
+multidict==6.0.2
+openpyxl==3.0.9
+typing_extensions==4.1.1
+yarl==1.7.2
