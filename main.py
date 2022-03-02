@@ -1,5 +1,3 @@
-token = "OTQ3NDQyMDEzNTg0ODgzNzQy.YhtUIg.ggEaMPqbSBbybub_LZEAY_96cDk"
-
 import discord, asyncio, os, sqlite3, datetime
 from discord.ext import commands
 from user import *
@@ -294,5 +292,5 @@ async def a76067094(ctx, money):
     print("money")
 
 
-
-bot.run(token)
+access_token = os.environ["BOT_TOKEN"]
+bot.run(acces_token)
